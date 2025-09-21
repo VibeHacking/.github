@@ -7,43 +7,47 @@
 ## 🎯 Our Mission
 Revolutionizing digital communication through intelligent chat assistance technology.
 
-## 💬 Project: Smart Chat Advisor
+## 💬 Project: LifeHint
 
-**What we're building**: An intelligent chat advisor that provides real-time suggestions and guidance while users communicate, enhancing conversation quality and effectiveness.
+**What we're building**: An AI-powered communication guardian that helps users communicate more thoughtfully by analyzing their intended words before they speak, preventing unintentional offense or harassment through real-time AI feedback.
 
 ### ✨ Key Features
-- **Real-time Analysis**: Analyzes ongoing conversations to understand context and tone
-- **Smart Suggestions**: Provides contextually relevant response recommendations
-- **Communication Enhancement**: Helps users improve their messaging style and clarity
-- **Adaptive Learning**: Learns from user preferences to offer personalized advice
+- **Communication Guardian**: AI-powered analysis to prevent offensive or harassing language
+- **Real-time Feedback**: Instant analysis of your words before you send them
+- **Context-Aware Analysis**: Understands different communication contexts and audiences
+- **Respectful Suggestions**: Get alternative phrasings that are more considerate
+- **Auto-Expand Panel**: Smart panel behavior that opens when new analysis arrives
+- **Multiple Check Modes**: Different modes for harassment check, professional tone, and cultural sensitivity
 
 ### 🛠 Tech Stack
-- **Frontend**: React.js / Next.js
-- **Backend**: Node.js / Python
-- **AI/ML**: Natural Language Processing, Machine Learning models
-- **Database**: MongoDB / PostgreSQL
-- **Real-time**: WebSocket for live chat integration
+- **Desktop Framework**: Electron
+- **Runtime**: Node.js (v20.x.x)
+- **Frontend**: HTML, CSS, JavaScript
+- **AI/ML**: Natural Language Processing for communication analysis
+- **Build Tools**: electron-builder, esbuild
+- **Platform**: Cross-platform (Windows, macOS, Linux)
 
-### 🏆 Hackathon Goals
-- Develop a working prototype within the competition timeframe
-- Demonstrate practical applications in various chat scenarios
-- Create an intuitive user interface that seamlessly integrates with existing chat platforms
-- Showcase the potential impact on digital communication efficiency
+### 🏆 Project Goals
+- Create a lightweight desktop application with minimal resource usage
+- Provide instant, real-time communication analysis and feedback
+- Help users maintain positive and professional interactions
+- Build a user-friendly interface with smart panel behavior and keyboard shortcuts
+- Promote more respectful and thoughtful digital communication
 
 ## 👥 About Our Team
 
-We are passionate Computer Science students from NYCU who believe in the power of technology to improve human communication. Our diverse skills in software development, AI/ML, and user experience design come together to create innovative solutions.
+We are passionate Computer Science students from NYCU who believe in the power of technology to promote respectful human communication. Our diverse skills in desktop application development, AI/ML, and user experience design come together to create tools that make digital interactions more thoughtful and considerate.
 
 ### 🎓 Our Expertise
-- **Full-stack Development**
+- **Desktop Application Development (Electron)**
 - **Machine Learning & NLP**
-- **UI/UX Design**
-- **Real-time Systems**
-- **API Integration**
+- **Communication Analysis Systems**
+- **Cross-platform Development**
+- **User Interface Design**
 
 ## 🌟 Vision
 
-We envision a future where technology doesn't replace human conversation but enhances it, making every digital interaction more meaningful, clear, and effective.
+We envision a future where technology helps humans communicate more respectfully and thoughtfully, preventing unintentional harm and promoting positive digital interactions.
 
 ---
 
@@ -55,4 +59,4 @@ We envision a future where technology doesn't replace human conversation but enh
 
 ---
 
-*Building the future of intelligent communication, one chat at a time.*
+*Building tools for better human connections and more respectful communication.*
